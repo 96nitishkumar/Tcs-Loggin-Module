@@ -8,7 +8,7 @@ public class Addition {
 	int num1=30;
 	int num2=8;
 	int result;
-	result = num1*num2;
+	result = num1+num2;
 	System.out.println("Multiplication of two number is :"+result);
 	}
 
